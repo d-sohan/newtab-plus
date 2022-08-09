@@ -1,0 +1,14 @@
+.tileInner {
+    margin-top: 5px;
+}
+
+a {
+    display:block;
+}
+
+.title {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-top: 8px;
+}

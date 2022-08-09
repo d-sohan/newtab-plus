@@ -1,0 +1,25 @@
+.tile {
+    background-color: #414141;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+    box-shadow: 0px 3px 5px rgb(27, 27, 27);
+    /* margin-bottom: 5px; */
+}
+
+.tile:active {
+    border: 1px solid cyan;
+}
+.tile:hover {
+    cursor: pointer;
+}
+
+.tile-img {
+    max-width: 45px;
+    max-height: 45px;
+    border-radius: 5px;
+}
